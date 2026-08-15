@@ -1,0 +1,9 @@
+{
+  "name": "Carolina Guzman · Negocio con propósito",
+  "short_name": "Carolina Guzman",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FBF8FC",
+  "theme_color": "#8E6AA8",
+  "description": "Negocio con propósito"
+}
